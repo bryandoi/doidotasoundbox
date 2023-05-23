@@ -1,0 +1,99 @@
+body {
+  text-align: center;
+  background-color: #0b021d;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #fcffff;
+  font-family: Proxima Nova;
+  /* text-shadow: 3px 0 #ff0e7a8f; */
+
+}
+
+footer {
+  color: #f3de1c;
+  font-family: proxima nova;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+
+.w {
+  background-image: url("images/Anti-Mage_icon.webp");
+  background-position: center;
+  background-size: 200px;
+}
+
+.a {
+  background-image: url("images/Axe_icon.webp");
+  background-position: center;
+  background-size: 200px;
+  
+}
+
+.s {
+  background-image: url("images/Hoodwink_icon.webp");
+  background-position: center;
+  background-size: 200px;
+}
+
+.d {
+  background-image: url("images/Invoker_icon.webp");
+  background-position: center;
+  background-size: 200px;
+}
+
+.j {
+  background-image: url("images/Pudge_icon.webp");
+  background-position: center;
+  background-size: 200px;
+}
+
+.k {
+  background-image: url("images/Rubick_icon.webp");
+  background-position: center;
+  background-size: 200px;
+}
+
+.l {
+  background-image: url("images/Sniper_icon.webp");
+  background-position: center;
+  background-size: 200px;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color:yellow;
+}
+
+.drum {
+  outline: none;
+  border: 8px solid rgb(255, 10, 71);
+  font-size: 2em;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: white;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 120px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
