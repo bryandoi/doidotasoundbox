@@ -19,44 +19,44 @@ footer {
   font-size: 16px;
 }
 
-.w {
+.q {
   background-image: url("images/Anti-Mage_icon.webp");
   background-position: center;
   background-size: 200px;
 }
 
-.a {
+.w {
   background-image: url("images/Axe_icon.webp");
   background-position: center;
   background-size: 200px;
   
 }
 
-.s {
+.e {
   background-image: url("images/Hoodwink_icon.webp");
   background-position: center;
   background-size: 200px;
 }
 
-.d {
+.a {
   background-image: url("images/Invoker_icon.webp");
   background-position: center;
   background-size: 200px;
 }
 
-.j {
+.s {
   background-image: url("images/Pudge_icon.webp");
   background-position: center;
   background-size: 200px;
 }
 
-.k {
+.d {
   background-image: url("images/Rubick_icon.webp");
   background-position: center;
   background-size: 200px;
 }
 
-.l {
+.z {
   background-image: url("images/Sniper_icon.webp");
   background-position: center;
   background-size: 200px;
@@ -72,8 +72,9 @@ footer {
 }
 
 .pressed {
-  box-shadow: 0 3px 4px 0 #DBEDF3;
-  opacity: 0.5;
+  box-shadow: 0 0 60px 0 #fffb13;
+  border: 100px;
+
 }
 
 .red {
